@@ -1,0 +1,17 @@
+# Archivos temporales y copias de seguridad de MATLAB
+*.asv
+*.m~
+*.autosave
+
+# Datos y figuras generados localmente
+*.mat
+*.fig
+
+# Archivos de compilación/simulación (si se incorporan más adelante)
+slprj/
+codegen/
+
+# Sistema operativo / IDE
+.DS_Store
+Thumbs.db
+.idea/
