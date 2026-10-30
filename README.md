@@ -18,16 +18,13 @@ matlab-onramp-apuntes/
 ├── README.md
 ├── .gitignore
 ├── docs/
-│   ├── apuntes.md
-│   └── proyecto.md
-├── src/
-│   ├── fundamentos.m
-│   ├── arrays.m
-│   ├── graficas.m
-│   ├── tablas.m
-│   └── control_flujo.m
-└── tests/
-    └── verificacion_basica.m
+│   └── apuntes.md
+└── src/
+    ├── fundamentos.m
+    ├── arrays.m
+    ├── graficas.m
+    ├── tablas.m
+    └── control_flujo.m
 ```
 
 ## Requisitos
